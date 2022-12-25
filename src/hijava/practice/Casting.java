@@ -8,7 +8,7 @@ public class Casting {
 		long l = 1234567;
 		
 		System.out.println(i + l);
-		
+//		주석 달기 실험
 	}
 
 }
